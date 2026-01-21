@@ -2,7 +2,7 @@
 title: "进阶 Bash 技巧大全（实战向）"
 description: "Linux UNIX BASH"
 pubDate: "Jun 01 2026"
-heroImage: "https://w.wallhaven.cc/full/qr/wallhaven-qrjmgl.jpg"
+heroImage: "/wallhaven-qrjmgl.jpg"
 ---
 
 ## 进阶 Bash 技巧大全（实战向）
